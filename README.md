@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Web developer with interests in cybersecurity</h3>
 
-<a href="https://github.com/telles-lucas/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=telles-lucas&theme=midnight-purple"/>
-</a>
-<a href="https://github.com/telles-lucas/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=telles-lucas&layout=compact&langs_count=8&card_width=320&theme=midnight-purple"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=telles-lucas&theme=midnight-purple" /> <img halign="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=telles-lucas&theme=midnight-purple&layout=donut&langs_count=8&card_width=320" />
 
 
 
