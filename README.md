@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Web developer with interests in cybersecurity</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=telles-lucas&theme=midnight-purple" /> <img halign="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=telles-lucas&theme=midnight-purple&layout=donut&langs_count=8&card_width=320" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=telles-lucas&theme=midnight-purple" /> <img halign="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=telles-lucas&theme=midnight-purple&layout=donut&langs_count=8&card_width=320" />
 
 
 
 
 
 
-- 🌱 Currently learning **Java, JavaScript, HTML, CSS**
+- 🌱 Currently learning **CyberSecurity, Java, JavaScript, C++**
 
 - 🤝 **Software Dev, WEB Dev, Cybersec**
 
