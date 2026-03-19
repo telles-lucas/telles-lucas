@@ -12,7 +12,7 @@
 
 - 🤝 **Software Dev, WEB Dev, Cybersec**
 
-- 👨‍💻 Projects are available at [github.com/telles-lucas?tab=projects](github.com/telles-lucas?tab=projects)
+- 👨‍💻 Projects are available at [github.com/telles-lucas?tab=repositories](github.com/telles-lucas?tab=repositories)
 
 - 📫 Contact me sending an e-mail to **lucastelles124@gmail.com**
 
